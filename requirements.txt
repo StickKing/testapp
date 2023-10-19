@@ -1,0 +1,7 @@
+requests
+aiohttp
+python-dateutil
+python-telegram-bot
+sqlalchemy
+marshmallow
+pyyaml

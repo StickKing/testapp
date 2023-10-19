@@ -1,0 +1,5 @@
+db:
+  path: "./"
+telegram:
+  token: "6377317651:AAFCdjdgD72f1GYV4VAom7fR9iz9VMn-Iog"
+  user_id: "954296104"
